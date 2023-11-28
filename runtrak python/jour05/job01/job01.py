@@ -1,0 +1,1 @@
+print ("Hello", input("veiller donner votre nom : \n"))
